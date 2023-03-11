@@ -1,6 +1,6 @@
 # 1)
 
-# value = 1005000
+# value = 107000
 # start = str(value)
 # result = (start.count('0'))
 # print(int(result))
