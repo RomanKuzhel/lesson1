@@ -1,5 +1,4 @@
 # 1)
-
 # value = 107000
 # start = str(value)
 # result = (start.count('0'))
